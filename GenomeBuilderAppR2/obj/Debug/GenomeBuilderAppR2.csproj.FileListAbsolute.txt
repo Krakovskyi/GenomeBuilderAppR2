@@ -1,7 +1,0 @@
-C:\Temp\GenomeConstructor\GenomeBuilderAppR2\GenomeBuilderAppR2\bin\Debug\GenomeBuilderAppR2.exe.config
-C:\Temp\GenomeConstructor\GenomeBuilderAppR2\GenomeBuilderAppR2\bin\Debug\GenomeBuilderAppR2.exe
-C:\Temp\GenomeConstructor\GenomeBuilderAppR2\GenomeBuilderAppR2\bin\Debug\GenomeBuilderAppR2.pdb
-C:\Temp\GenomeConstructor\GenomeBuilderAppR2\GenomeBuilderAppR2\obj\Debug\GenomeBuilderAppR2.csproj.AssemblyReference.cache
-C:\Temp\GenomeConstructor\GenomeBuilderAppR2\GenomeBuilderAppR2\obj\Debug\GenomeBuilderAppR2.csproj.CoreCompileInputs.cache
-C:\Temp\GenomeConstructor\GenomeBuilderAppR2\GenomeBuilderAppR2\obj\Debug\GenomeBuilderAppR2.exe
-C:\Temp\GenomeConstructor\GenomeBuilderAppR2\GenomeBuilderAppR2\obj\Debug\GenomeBuilderAppR2.pdb
